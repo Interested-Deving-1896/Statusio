@@ -10,6 +10,8 @@
 
 A tiny, Stremio add-on that shows your **premium status & days remaining** for *multiple debrid providers* as a single **info card** in the **Streams** tab.
 
+**User Guide:** *Statusio* has a quick user-friendly guide located on [**Reddit**](https://www.reddit.com/r/StremioAddons/comments/1owrhl6/addon_release_statusio_see_your_debrid_status/).
+
 **Note:** *Statusio* is also on a *public instance* on **ElfHosted** located here: https://statusio.elfhosted.com/configure
 
 ---
